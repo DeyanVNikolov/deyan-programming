@@ -192,3 +192,11 @@ lint/tmp/
 *.hprof
 
 /.idea/dataSources.xml
+*.cache
+*.json
+*.csproj
+*.props
+*.targets
+*obj
+*.vs
+*.sln
