@@ -200,3 +200,4 @@ lint/tmp/
 *obj
 *.vs
 *.sln
+*.pyc
