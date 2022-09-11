@@ -201,3 +201,4 @@ lint/tmp/
 *.vs
 *.sln
 *.pyc
+\test
